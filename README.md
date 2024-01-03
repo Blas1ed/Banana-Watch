@@ -6,7 +6,7 @@ A mod watch that allows you to do these current things!
 3. Info Page On The Front Page Of Menu!
 
 # Usage
-Install the <a>DLL<a> into your BepInEx/Plugins folder! <a href = "https://www.youtube.com/watch?v=Lu_-PPg6jSk">Vid Tut<a>
+Install the <a href = "https://github.com/Blas1ed/Banana-Watch/releases/tag/Watch1.0.0">DLL<a> into your BepInEx/Plugins folder! <a href = "https://www.youtube.com/watch?v=Lu_-PPg6jSk">Vid Tut<a>
 
 # Info
 Menu Made by Blas1ed You can contact me in the Gorilla Tag Modding Discord @Blas1ed if you find any issues make a Issue Report or dm me!
