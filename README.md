@@ -22,4 +22,4 @@ How do i disable the menu? using Computer++ you can disable the mod disableing t
 2. <a href = "https://github.com/KyleTheScientist/ComputerPlusPlus/releases/tag/v1.0.1">Computer++ v1.01<a>
 
 # Stats
-![GitHub all releases](https://img.shields.io/github/downloads/Blas1ed/Banana-Watch/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Blas1ed/Banana-Watch/total?color=%2300FF00)
