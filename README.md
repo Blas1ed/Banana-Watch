@@ -1,8 +1,8 @@
 # Banana-Watch
 A mod watch that allows you to do these current things!
 
-1. Disable/Enable BepInEx Plugins
-2. Enable/Disable Built In Mods (LEGAL) (Only Modded Lobbys)
+1. Disable/Enable BepInEx Plugins on the "Mods" Page
+2. Enable/Disable Built In Mods (LEGAL) (Only Modded Lobbys) in the "Activate Mods" Page
 3. Info Page On The Front Page Of Menu!
 
 # Usage
