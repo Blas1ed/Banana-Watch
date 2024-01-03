@@ -12,7 +12,7 @@ Install the <a href = "https://github.com/Blas1ed/Banana-Watch/releases/tag/Watc
 Menu Made by Blas1ed You can contact me in the Gorilla Tag Modding Discord @Blas1ed if you find any issues make a Issue Report or dm me!
 
 # Menu Info
-How do i get back to the main page? all you have to do is press the left tab change button if your on the last page of the Selected Page you will get put back to the main spot!
+How do i get back to the main page? all you have to do is press the left tab change button if your on the  first page of the Selected Page you will get put back to the main spot!
 
 How do i disable the menu? using Computer++ you can disable the mod disableing the menu and watch!
 
